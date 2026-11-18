@@ -1,0 +1,1 @@
+{"tenantId":"tenant-demo-001","source":"graph_mock","resource":"servicePrincipals","value":[{"id":"sp-teams-001","appId":"app-teams-001","displayName":"Microsoft Teams","servicePrincipalType":"Application","accountEnabled":true,"appRoleAssignmentRequired":false,"tags":[]}]}

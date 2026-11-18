@@ -1,0 +1,1 @@
+{"tenantId":"tenant-demo-001","source":"graph_mock","resource":"signIns","value":[{"id":"signin-001","appId":"app-teams-001","appDisplayName":"Microsoft Teams","userId":"user-001","createdDateTime":"2026-11-18T08:00:00Z","isInteractive":true,"status":{"errorCode":0}}]}

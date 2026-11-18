@@ -1,0 +1,1 @@
+{"tenantId":"tenant-demo-001","source":"graph_mock","resource":"appRoleAssignedTo","value":[{"id":"assignment-001","principalId":"user-001","principalType":"User","principalDisplayName":"Usuario Demo","resourceId":"sp-teams-001","appRoleId":"00000000-0000-0000-0000-000000000000"}]}

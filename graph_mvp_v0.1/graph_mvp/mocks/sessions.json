@@ -1,0 +1,1 @@
+{"tenantId":"tenant-demo-001","source":"telemetry_mock","resource":"appSessions","value":[{"sessionId":"session-001","appId":"app-teams-001","userId":"user-001","startedAt":"2026-11-18T08:00:00Z","endedAt":"2026-11-18T10:00:00Z","activeSeconds":5400,"idleSeconds":1800,"status":"closed"}]}
